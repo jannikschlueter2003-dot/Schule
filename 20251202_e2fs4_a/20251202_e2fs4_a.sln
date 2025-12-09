@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auto_traktor_virtuell", "auto_traktor_virtuell\auto_traktor_virtuell.csproj", "{A6896256-F773-44A8-A437-756F04F460B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auto_traktor_fahrer_vererbung", "auto_traktor_fahrer_vererbung\auto_traktor_fahrer_vererbung.csproj", "{BAA46D81-7686-47EC-9749-93F59A739AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6896256-F773-44A8-A437-756F04F460B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6896256-F773-44A8-A437-756F04F460B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6896256-F773-44A8-A437-756F04F460B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6896256-F773-44A8-A437-756F04F460B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA46D81-7686-47EC-9749-93F59A739AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA46D81-7686-47EC-9749-93F59A739AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA46D81-7686-47EC-9749-93F59A739AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA46D81-7686-47EC-9749-93F59A739AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C3AC2D9-9989-4822-8C81-F9BE2568AE3C}
+	EndGlobalSection
+EndGlobal

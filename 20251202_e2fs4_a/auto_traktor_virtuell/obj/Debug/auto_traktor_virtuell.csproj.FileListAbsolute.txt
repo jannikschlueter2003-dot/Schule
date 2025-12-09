@@ -1,0 +1,10 @@
+H:\Documents\Documents\Visual Studio 2022\Projects\20251002_e2fs4_a\auto_traktor_virtuell\bin\Debug\auto_traktor_virtuell.exe.config
+H:\Documents\Documents\Visual Studio 2022\Projects\20251002_e2fs4_a\auto_traktor_virtuell\bin\Debug\auto_traktor_virtuell.exe
+H:\Documents\Documents\Visual Studio 2022\Projects\20251002_e2fs4_a\auto_traktor_virtuell\bin\Debug\auto_traktor_virtuell.pdb
+H:\Documents\Documents\Visual Studio 2022\Projects\20251002_e2fs4_a\auto_traktor_virtuell\obj\Debug\auto_traktor_virtuell.csproj.AssemblyReference.cache
+H:\Documents\Documents\Visual Studio 2022\Projects\20251002_e2fs4_a\auto_traktor_virtuell\obj\Debug\auto_traktor_virtuell.Properties.Resources.resources
+H:\Documents\Documents\Visual Studio 2022\Projects\20251002_e2fs4_a\auto_traktor_virtuell\obj\Debug\auto_traktor_virtuell.csproj.GenerateResource.cache
+H:\Documents\Documents\Visual Studio 2022\Projects\20251002_e2fs4_a\auto_traktor_virtuell\obj\Debug\auto_traktor_virtuell.csproj.CoreCompileInputs.cache
+H:\Documents\Documents\Visual Studio 2022\Projects\20251002_e2fs4_a\auto_traktor_virtuell\obj\Debug\auto_traktor_virtuell.exe
+H:\Documents\Documents\Visual Studio 2022\Projects\20251002_e2fs4_a\auto_traktor_virtuell\obj\Debug\auto_traktor_virtuell.pdb
+H:\Documents\Documents\Visual Studio 2022\Projects\20251002_e2fs4_a\auto_traktor_virtuell\obj\Debug\auto_traktor_virtuell.Form1.resources
