@@ -1,0 +1,25 @@
+services:
+  datasette:
+    image: datasetteproject/datasette:latest
+    container_name: datasette
+    restart: unless-stopped
+    # Alle .db-Dateien im Ordner ./data werden schreibgeschützt (-i) ausgeliefert
+    command: >
+      sh -c "datasette serve -i /data/*.db
+      --host 0.0.0.0 --port 8001
+      --setting base_url /"
+    volumes:
+      - ./data:/data:ro
+    expose:
+      - "8001"
+    # Kein "ports:" -> nur über den Tunnel erreichbar, nicht im Heimnetz
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: cloudflared
+    restart: unless-stopped
+    command: tunnel --no-autoupdate run
+    environment:
+      - TUNNEL_TOKEN=${TUNNEL_TOKEN}
+    depends_on:
+      - datasette
